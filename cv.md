@@ -38,7 +38,8 @@ My name is Pankratij. In 2024, I entered the BRU, group - PMR-241. I've always l
             if mylist\[j\] > mylist\[j+1\]:
                 mylist\[j\], mylist\[j+1\] = mylist\[j+1\], mylist\[j\]
         
-    print(mylist)```
+    print(mylist)
+```
     
 
 ## Projects
