@@ -44,7 +44,7 @@ My name is Pankratij. In 2024, I entered the BRU, group - PMR-241. I've always l
 
 ## Projects
 
-### *   CV
+###   CV
 
 My first project is my own CV
 
