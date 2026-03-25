@@ -6,7 +6,8 @@
 
 ## Photo
 
-<img src="szjjOW6.jpeg" width="150">
+![My photo]
+(szjjOW6.jpeg)
 
 ## Full Name
 
